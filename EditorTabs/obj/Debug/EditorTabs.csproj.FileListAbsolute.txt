@@ -1,0 +1,12 @@
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\bin\Debug\EditorTabs.exe.config
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\bin\Debug\EditorTabs.exe
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\bin\Debug\EditorTabs.pdb
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\obj\Debug\EditorTabs.csproj.AssemblyReference.cache
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\obj\Debug\EditorTabs.Interface.resources
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\obj\Debug\EditorTabs.Properties.Resources.resources
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\obj\Debug\EditorTabs.csproj.GenerateResource.cache
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\obj\Debug\EditorTabs.csproj.CoreCompileInputs.cache
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\obj\Debug\EditorTabs.exe
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\obj\Debug\EditorTabs.pdb
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\bin\Debug\WeAreDevs_API.dll
+C:\Users\windows\source\repos\EditorTabs\EditorTabs\obj\Debug\EditorTabs.csproj.CopyComplete
